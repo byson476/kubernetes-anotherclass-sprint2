@@ -6,8 +6,8 @@ pipeline {
         jdk 'jdk-17'
     }
     parameters {
-        string(name: 'DOCKERHUB_USERNAME', defaultValue: 'academyitwill')
-        string(name: 'GITHUB_USERNAME', defaultValue: '2025-01-JAVA-DEVELOPER-159')
+        string(name: 'DOCKERHUB_USERNAME', defaultValue: 'byson476')
+        string(name: 'GITHUB_USERNAME', defaultValue: 'byson476')
     }
 
     environment {
